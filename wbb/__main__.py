@@ -194,7 +194,7 @@ async def start(_, message):
                 reply_markup=keyb,
             )
     else:
-        await message.reply(
+        await message.reply_photo(
             home_text_pm,
             reply_markup=home_keyboard_pm,
         )
