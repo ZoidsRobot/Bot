@@ -6,7 +6,7 @@ load_dotenv("config.env" if os.path.isfile("config.env") else "sample_config.env
 
 BOT_TOKEN = os.environ.get('BOT_TOKEN', '5620597185:AAFP-9SMEH8W0dl-sApENxh20hG3yg2UVAQ')
 API_ID = int(os.environ.get('API_ID', '9774346'))
-SESSION_STRING = os.environ.get('SESSION_STRING', 'BQCVJQoAV8U1E7edwrs7_gZBxW10WYCXFquVtq5EFiEEjRjzgJ22adwZfp5dG5VXHT5swC4S2PpC5-lGsDeF53kjLqMbTgZAAmSPJjZQj2ZQ3STM0yZYt8KFpZfO566FUo3_qWUtnTG3d3Nj3yEGLFV-JNRU4UApjzKLdApLQoYz-irHdSuDnObbGGT8IYENwrDigoHY0WVpLK8nDYbes_TUXbKmR7SkJBYEY3wCx2wfq0acprN-S6ORYGuFyVSadXZgp-WAJeXD54eb7Az-9vk3iNUIX0hO5eCA9H18M_kVRi79fUC0VxXe6gVIZqLtM1r16fRjNNWXfusWM9MgOy9nE22qFgAAAAA2GAb2AA')
+SESSION_STRING = os.environ.get('SESSION_STRING', '')
 API_HASH = os.environ.get('API_HASH', 'a92aed7d74654a563af4b07efbcd88e9')
 USERBOT_PREFIX = os.environ.get('USERBOT_PREFIX', '.')
 PHONE_NUMBER = os.environ.get('PHONE_NUMBER')
