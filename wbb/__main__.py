@@ -132,7 +132,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
 )
 
 home_text_pm = (
-    f"*ʜᴇʟʟᴏ {} !* [🎉](https://telegra.ph/file/e684d81a846cb6a8369ef.jpg)
+    f"*ʜᴇʟʟᴏ {} 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 {} ᴅɪʙᴜᴀᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴋ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ.
