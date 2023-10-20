@@ -120,7 +120,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 text="System Stats 🖥",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="http://t.me/WBBSupport"),
+            InlineKeyboardButton(text="Support 👨", url="http://t.me/ZoidsSupport"),
         ],
         [
             InlineKeyboardButton(
@@ -132,9 +132,19 @@ home_keyboard_pm = InlineKeyboardMarkup(
 )
 
 home_text_pm = (
-    f"Hey there! My name is {BOT_NAME}. I can manage your "
-    + "group with lots of useful features, feel free to "
-    + "add me to your group."
+    f"*ʜᴇʟʟᴏ {} !* [🎉](https://telegra.ph/file/e684d81a846cb6a8369ef.jpg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+{} ᴅɪʙᴜᴀᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴋ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ.
+━━━━━━━━━━━━━━━━━━━━━━━━
+➻ ᴜᴘᴛɪᴍᴇ » `{}`
+➻ ᴜsᴇʀs » `{}`
+➻ ɢʀᴏᴜᴘꜱ » `{}`
+━━━━━━━━━━━━━━━━━━━━━━━━
+ ᴛᴇᴋᴀɴ /help ᴀᴛᴀᴜ /mhelp ᴜɴᴛᴜᴋ ᴘᴇʀɪɴᴛᴀʜ ꜱᴀʏᴀ ʏᴀɴɢ ᴛᴇʀꜱᴇᴅɪᴀ.
+━━━━━━━━━━━━━━━━━━━━━━━━
+"""
+"
 )
 
 keyboard = InlineKeyboardMarkup(
@@ -146,7 +156,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                url="https://github.com",
             ),
         ],
         [
@@ -154,7 +164,7 @@ keyboard = InlineKeyboardMarkup(
                 text="System Stats 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="t.me/WBBSupport"),
+            InlineKeyboardButton(text="Support 👨", url="t.me/ZoidsSupport"),
         ],
     ]
 )
